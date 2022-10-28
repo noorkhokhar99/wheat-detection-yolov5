@@ -1,3 +1,43 @@
-# wheat-detection-yolo5
-# wheat-detection-yolo5
-# yolo-wheat-detection
+# Wheat Detection
+Detecting wheat heads using YOLOv5
+- [Web App demo](#Web-app-demo)
+- [Brief overview of the competition images](#Brief-overview-of-the-competition-images)
+- [Modifications](#Modifications)
+- [Inference and Deployment](#Inference-and-Deployment)
+
+
+
+[![https://imgur.com/a/Ap2kaeX]()](https://www.youtube.com/c/Pyresearch/videos "Wheat App")
+
+## Pre-trained models
+Models can be downloaded from <a href="https://www.kaggle.com/ii5m0k3ii/mixup50e">here</a>. (Use last_yolov5x_4M50fold0.pt for best results) 
+
+
+
+### Steps to run Code
+- Clone the repository.
+```
+git clone https://github.com/noorkhokhar99/yolov7-object-blurring.git
+```
+- Goto the cloned folder.
+```
+cd yolov7-object-blurring
+
+```
+- Upgrade pip with mentioned command below.
+```
+pip install --upgrade pip
+```
+- Install requirements with mentioned command below.
+```
+pip install -r requirements.txt
+
+
+#if you want to change source file
+python app.py
+
+
+### Results
+
+
+<img src="https://github.com/noorkhokhar99/yolov7-object-blurring/blob/main/Screen%20Shot%201444-03-28%20at%2011.00.34%20AM.png">
