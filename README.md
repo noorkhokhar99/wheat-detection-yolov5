@@ -7,7 +7,6 @@ Detecting wheat heads using YOLOv5
 
 
 
-[![https://imgur.com/a/Ap2kaeX]()](https://www.youtube.com/c/Pyresearch/videos "Wheat App")
 
 ## Pre-trained models
 Models can be downloaded from <a href="https://www.kaggle.com/ii5m0k3ii/mixup50e">here</a>. (Use last_yolov5x_4M50fold0.pt for best results) 
@@ -16,7 +15,7 @@ Models can be downloaded from <a href="https://www.kaggle.com/ii5m0k3ii/mixup50e
 ### Steps to run Code
 - Clone the repository.
 ```
-git clone https://github.com/noorkhokhar99/yolov7-object-blurring.git
+git clone https://github.com/noorkhokhar99/wheat-detection-yolov5.git
 ```
 - Goto the cloned folder.
 ```
