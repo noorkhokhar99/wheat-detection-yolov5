@@ -39,5 +39,5 @@ python app.py
 ### Results
 
 
-<img src="https://github.com/noorkhokhar99/yolov7-object-blurring/blob/main/Screen%20Shot%201444-03-28%20at%2011.00.34%20AM.png">
+<img src="https://github.com/noorkhokhar99/wheat-detection-yolov5/blob/main/Screen%20Shot%201444-04-01%20at%209.01.52%20PM.png">
 
