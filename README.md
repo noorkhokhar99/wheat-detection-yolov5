@@ -19,7 +19,7 @@ git clone https://github.com/noorkhokhar99/wheat-detection-yolov5.git
 ```
 - Goto the cloned folder.
 ```
-cd yolov7-object-blurring
+cd wheat-detection-yolov5
 
 ```
 - Upgrade pip with mentioned command below.
