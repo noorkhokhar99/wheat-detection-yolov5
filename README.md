@@ -32,7 +32,7 @@ pip install -r requirements.txt
 - Run the code with mentioned command below.
 ```
 #if you want to change source file
-python detect_and_blur.py --weights yolov7.pt --source "your video.mp4" --blurratio 20
+python app.py
 
 ```
 
