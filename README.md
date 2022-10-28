@@ -8,8 +8,6 @@ Detecting wheat heads using YOLOv5
 
 
 
-## Pre-trained models
-Models can be downloaded from <a href="https://www.kaggle.com/ii5m0k3ii/mixup50e">here</a>. (Use last_yolov5x_4M50fold0.pt for best results) 
 
 
 ### Steps to run Code
@@ -30,7 +28,7 @@ pip install --upgrade pip
 ```
 pip install -r requirements.txt
 ```
-- Download [models](https://www.kaggle.com/ii5m0k3ii/mixup50e) object detection weights from link and move them to the working directory {models-Wheat-Detection}
+- Download [models](https://www.kaggle.com/datasets/ii5m0k3ii/mixup50e/download?datasetVersionNumber=1) object detection weights from link and move them to the working directory {models-Wheat-Detection}
 - Run the code with mentioned command below.
 ```
 #if you want to change source file
